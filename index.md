@@ -2,6 +2,6 @@
 
 set of recipes as given by my grandma
 
-- piczas (todo)
+- piczzas (todo)
 - Sauces (todo)
-- reds (todo)
+- Spreds (todo)
