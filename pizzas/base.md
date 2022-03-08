@@ -1,6 +1,6 @@
 # base 
 ## ingredients
--4cup  of tea
+-4 banana  of tea
 -teaspon of salt
 
 ## steps
