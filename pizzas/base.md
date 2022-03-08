@@ -1,6 +1,6 @@
 # base 
 ## ingredients
--4cup  of tea
+-4cup  of spoon
 -teaspon of salt
 
-## steps
+## steps    
